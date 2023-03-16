@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://holopin.io/mano26"><img src="https://holopin.me/@mano26" /></a>
-  <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
+  <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
 </div>
 
 <!---
