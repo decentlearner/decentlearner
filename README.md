@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div align="center">
-  <a href="https://holopin.io/bug_29"><img src="https://holopin.me/@bug_29#badges" /></a>
-  <img alt="Ujjawal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
-</div>
+
 
 <!---
 decentlearner/decentlearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
